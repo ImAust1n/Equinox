@@ -1,0 +1,108 @@
+body {
+    margin: 0;
+}
+
+.top-header{
+    background-color: #4F6F52;
+}
+
+.starting-header {
+    display: flex;
+    align-content: center;
+}
+
+.text-white{
+    color: #EEEEEE;
+}
+
+button{
+    margin-left: 10px;
+}
+
+h1{
+    margin: 0 20px;
+    padding: 10px 0;
+}
+
+.navbar-toggler {
+    background-color: #E8DFCA;
+}
+
+.navbar-toggler:hover {
+    background-color: #FF8A08;
+}
+
+.top-images {
+    max-width: 100%;
+    max-height: 900px;
+}
+
+.equinox {
+    text-decoration: none;
+    color: #E8DFCA;
+}
+
+.equinox:hover {
+    color: #FF8A08;
+}
+
+img {
+    object-fit: cover;
+}
+
+.white-text {
+    color: #EEEEEE;
+}
+
+.beej-btn {
+    background-color: #E8DFCA;
+    border: 0;
+    color: #FF8A08;
+}
+
+.beej-btn:hover {
+    color: #E8DFCA;
+    background-color: #FF8A08;
+}
+
+.beej-color {
+    background-color: #E8DFCA;
+}
+
+.beej-login {
+    color: #E8DFCA;
+    border-color: #E8DFCA;
+}
+
+.beej-login:hover {
+    color: #FF8A08;
+    border-color: #FF8A08;
+    background-color: #4F6F52;
+}
+
+.top-carousel {
+    width: 100%;
+    height: 900px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url(https://cdn.deccanchronicle.com/sites/default/files/rescue_7.jpg);
+}
+
+h2 {
+    color: #E8DFCA;
+    font-size: 200%;
+    text-align: center;
+}
+
+.text-bg {
+    background-color: #2a512e;
+    position: absolute;
+    top: 32%;
+    right: 55%;
+    width: 35%;
+    height: 12%;
+    position: absolute;
+    color: #cba21d;
+    font-size: 5vh;
+}
